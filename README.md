@@ -2,8 +2,6 @@
 
 NewsBreeze is a MERN stack news aggregation application with AI-powered features that delivers real-time news with text summarization and celebrity voice narration.
 
-![NewsBreeze](https://via.placeholder.com/800x400?text=NewsBreeze+App)
-
 ## 🚀 Features
 
 - **Real-time News Aggregation**: Fetches latest news from multiple RSS feeds (CNN, BBC, Reuters, NPR)
@@ -30,6 +28,9 @@ NewsBreeze is a MERN stack news aggregation application with AI-powered features
 ### AI Integration
 - **Text Summarization**: Hugging Face API (Falconsai/text_summarization)
 - **Voice Generation**: Hugging Face API (coqui/XTTS-v2)
+
+## Screeshot
+![screencapture-localhost-3000-2025-06-03-11_54_41](https://github.com/user-attachments/assets/c4777566-9a7f-4520-aa80-ae9588adaa97)
 
 ## 📋 Project Structure
 
